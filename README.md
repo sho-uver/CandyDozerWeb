@@ -13,4 +13,4 @@
 <li>ショットパワーがたまってないとショットできない
 <li>手前に落とすとショットキャンディーのストックが増える
 <ul>
-<a href="https://sho-uver.github.io/CandyDozerWeb/.">ゲームへ</a>
+## <a href="https://sho-uver.github.io/CandyDozerWeb/.">ゲームへ</a>
